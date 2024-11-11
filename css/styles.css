@@ -1,0 +1,16 @@
+
+  h1{
+    color: red;
+    font-family: "Courier New", Courier, monospace;
+    background-color: antiquewhite;
+  }
+  p, li {
+    color: blue;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1.2rem;
+  }
+  .babson {
+    background-color: #9eb28f;}
+
+
+    
